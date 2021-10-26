@@ -28,7 +28,7 @@ jobs:
 
     steps:
 
-      - name: Checkout
+      - name: xinnn
         uses: actions/checkout@master
         with:
           ref: master
